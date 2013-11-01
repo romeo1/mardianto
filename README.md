@@ -25,6 +25,15 @@
 - . APA ITU CSS        :  http://www.w3schools.com/css/default.asp
 - . GIMANA CARA BIKIN SLIDER DENGAN CSS ? : http://demosthenes.info/blog/627/Make-A-Responsive-CSS3-Image-Slider
 - . BELAJAR JQUERY : http://try.jquery.com/levels/1/challenges/1
+- . BELAJAR JAVASCRIPT & PHP : http://www.codesaya.com/javascript/
+
+
+
+#   SHARE DESIGN :
+
+.   UNTUK MEMBUAT SUATU DESIGN BAIK NYA DI UPLOAD DAHAULU DI SINI UNTUK PENILAIAN/KOREKSI 
+
+  . https://redpen.io/
 
 
 # 3D MAX TUTORIALS & INTERFACE PROGRAM:
