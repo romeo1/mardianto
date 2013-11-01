@@ -6,7 +6,7 @@
                                       
                                       
                                       
-## Group Mahasiswa/i kelas MIS B MIS & D AMIK MASTER ANGKATAN 2012/2013: ##
+## Group Mahasiswa/i kelas MIS B & MIS D AMIK MASTER ANGKATAN 2012/2013: ##
 
 
 
