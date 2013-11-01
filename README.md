@@ -22,6 +22,13 @@
 - . APA ITU HTML & CSS : http://www.w3schools.com/html/default.asp
 - . APA ITU CSS        :  http://www.w3schools.com/css/default.asp
 - . GIMANA CARA BIKIN SLIDER DENGAN CSS ? : http://demosthenes.info/blog/627/Make-A-Responsive-CSS3-Image-Slider
+ 
+
+
+
+# TOOLS UNTUK BERBAGI POTONGAN KODE :
+- . http://jsbin.com/
+
 
 
 # 1. APA ITU BOOTSTRAP?
