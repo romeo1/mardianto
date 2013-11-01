@@ -27,7 +27,10 @@
 
 
 # TOOLS UNTUK BERBAGI POTONGAN KODE :
-- . http://jsbin.com/
+
+- . Tinggal copy html,css,javascript nya disini : http://jsbin.com/
+- . Jsfiddel Masih saudara an sama jsbin. : http://jsfiddle.net/
+- . Liveweave html5, css, javascript : http://liveweave.com/
 
 
 
