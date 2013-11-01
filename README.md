@@ -24,6 +24,14 @@
 - . GIMANA CARA BIKIN SLIDER DENGAN CSS ? : http://demosthenes.info/blog/627/Make-A-Responsive-CSS3-Image-Slider
 
 
+# 1. APA ITU BOOTSTRAP?
+
+ Bootstrap merupakan sebuah framework CSS dari twitter,
+ yang menyediakan kumpulan komponen-komponen antarmuka dasar pada web yang telah dirancang sedemikian rupa untuk digunakan bersama-sama. 
+ Selain komponen antarmuka, Bootstrap juga menyediakan sarana untuk membangun layout halaman dengan mudah dan rapi, 
+ serta modifikasi pada tampilan dasar HTML untuk membuat seluruh halaman web yang dikembangkan senada dengan komponen-komponen lainnya.
+
+
 . 
 
 
