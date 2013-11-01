@@ -12,6 +12,9 @@ GROUP MAHASISWA/i KELAS MIS B MIS D AMIK MASTER ANGKATAN 2012/2013
 . LINK KRS ONLINE                                                       :  http://ap.master.ac.id/index.php
 
 
+. LINK FORUM PENGGUNA UBUNTU SEINDONESIA                                : http://ubuntu-indonesia.com/forums/ubbthreads.php
+
+
 
 
 
@@ -34,4 +37,4 @@ GROUP MAHASISWA/i KELAS MIS B MIS D AMIK MASTER ANGKATAN 2012/2013
 
 
 
-Sabar yaa pasti akan nambah terus :)
+Sabar yaa pasti akan nambah terus  SEMOGA BERMANFAAT :)
