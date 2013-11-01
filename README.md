@@ -18,6 +18,9 @@
 - . PROGRAM DASAR PADA DELPHI & PENGKONEKSIAN NYA : http://youtu.be/FSV-qIh3jTg
 - . EBOOK BELAJAR HTML & CSS                      : http://www.ariona.net/ebook-belajar-html-dan-css/
 - . Webdesign tutsplus                            : http://webdesign.tutsplus.com
+- . Belajar membuat website dengan Photoshop & dreamwaver : http://www.w3function.com/blog/index.php?p=det&idn=24
+- . Apa itu html & css : http://www.w3schools.com/html/default.asp
+                         http://www.w3schools.com/css/default.asp                                          
 
 
 . 
