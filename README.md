@@ -33,7 +33,8 @@
 
 - . DIMANA BISA DOWNLOAD BOOTSRAP         : http://getbootstrap.com/
 - . BAGAIMANA CARA MEMBUAT WEBSITE DENGAN BOOTSTRAP : -http://sidikhanrei.com/id/blog/tutorials/2013/08/28/6-82/cara_mudah_membuat_website_dengan_bootstrap_v3_0_0
- 
+- . BEBERAPA SITUS YANG BISA DI JADIKAN REFRENSI BOOTSTRAP : http://bootstrapthemes.quora.com/25-Awseome-Twitter-Bootstrap-Themes-For-Better-Bootstrap-Designs
+- . TUTORIAL BOOTSTRAP : -http://bertzzie.com/post/31/bootstrap-sebuah-framework-css-dari-twitter
 
 
 
