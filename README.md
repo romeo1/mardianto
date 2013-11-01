@@ -9,7 +9,7 @@
 #   Link krs online  : http://ap.master.ac.id/index.php
 - . FORUM PENGGUNA UBUNTU SEINDONESIA  : http://ubuntu-indonesia.com/forums/ubbthreads.php
 - . KOMUNITAS MYSQL INDONESIA : http://www.meetup.com/Event-Komunitas-MySQL-Indonesia/
-- . KUMPULAN BERBAGAI KOMUNITAS,FIND MEET UP GROUP WADAH  BERMINAT UNTUK BERKUMPUL DAN BERJUMPA : http://www.meetup.com/find/
+- . KUMPULAN BERBAGAI KOMUNITAS,BERMINAT UNTUK BERKUMPUL,SHARING DAN BERJUMPA : http://www.meetup.com/find/
 - . LINK DOWNLOAD UBUNTU & BELAJAR UBUNTU : http://www.ubuntu.com/download/desktop
 - . ALTERNATIF LINK DOWNLOAD UBUNTU & BELAJAR UBUNTU  UNIV.INDO : http://kambing.ui.ac.id/
 
