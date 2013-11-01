@@ -16,7 +16,8 @@
 #   LINK TUTORIAL :
 
 - . PROGRAM DASAR PADA DELPHI & PENGKONEKSIAN NYA : http://youtu.be/FSV-qIh3jTg
-- . TUTORIAL WEB DESIGN & TEMPATE  : http://www.tutorial-webdesign.com/10-template-layout-website-psd-gratis/
+- . TUTORIAL WEB DESIGN & TEMPLATE  : http://www.tutorial-webdesign.com/10-template-layout-website-psd-gratis/
+- . TUTORIAL & ARTIKEL : http://webdesign.tutsplus.com/
 - . EBOOK BELAJAR HTML & CSS                      : http://www.ariona.net/ebook-belajar-html-dan-css/
 - . WEBDISGN TUTPLUS                            : http://webdesign.tutsplus.com
 - . BELAJAR MEMBUAT WEBSITE DENGAN PHOTOSHOP & DREAMWAVER : http://www.w3function.com/blog/index.php?p=det&idn=24
@@ -24,6 +25,11 @@
 - . APA ITU CSS        :  http://www.w3schools.com/css/default.asp
 - . GIMANA CARA BIKIN SLIDER DENGAN CSS ? : http://demosthenes.info/blog/627/Make-A-Responsive-CSS3-Image-Slider
 - . BELAJAR JQUERY : http://try.jquery.com/levels/1/challenges/1
+
+
+# 3D MAX TUTORIALS & INTERFACE PROGRAM :
+
+-. http://tutorisme.wordpress.com/2010/11/08/interface-tampilan-program-2/
  
 
 
