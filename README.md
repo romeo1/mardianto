@@ -15,8 +15,7 @@ Group Mahasiswa/i Kelas MIS B MIS D AMIK MASTER Angkatan 2012/2013
 
 
 
-
-  LINK TUTORIAL :
+                    LINK TUTORIAL :
 
 . PROGRAM DASAR PADA DELPHI & PENGKONEKSIAN NYA                         : http://youtu.be/FSV-qIh3jTg
 
