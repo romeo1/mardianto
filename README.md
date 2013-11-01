@@ -4,8 +4,6 @@
                                       
 ## Group Mahasiswa/i kelas MIS B & MIS D AMIK MASTER ANGKATAN 2012/2013: ##
 ============================================================================
-
-
 - . BOOKMARK LINK  UNTUK GROUP MIS B & MIS D 
 
 #   Link krs online  : http://ap.master.ac.id/index.php
@@ -27,8 +25,6 @@
 - . BELAJAR JQUERY : http://try.jquery.com/levels/1/challenges/1
 - . BELAJAR JAVASCRIPT & PHP : http://www.codesaya.com/javascript/
 
-
-
 #   SHARE DESIGN :
 
 .   UNTUK MEMBUAT SUATU DESIGN BAIK NYA DI UPLOAD DAHAULU DI SINI UNTUK PENILAIAN/KOREKSI 
@@ -40,9 +36,6 @@
 
 - . http://tutorisme.wordpress.com/2010/11/08/interface-tampilan-program-2/
  
-
-
-
 # TOOLS UNTUK BERBAGI POTONGAN KODE :
 
   . TINGGAL COPY HTML,CSS,JS DI BAWAH INI *NOTE* BERBASIS ONLINE
