@@ -27,9 +27,9 @@
 - . BELAJAR JQUERY : http://try.jquery.com/levels/1/challenges/1
 
 
-# 3D MAX TUTORIALS & INTERFACE PROGRAM :
+# 3D MAX TUTORIALS & INTERFACE PROGRAM:
 
--. http://tutorisme.wordpress.com/2010/11/08/interface-tampilan-program-2/
+- . http://tutorisme.wordpress.com/2010/11/08/interface-tampilan-program-2/
  
 
 
