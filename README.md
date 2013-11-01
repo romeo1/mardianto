@@ -10,7 +10,7 @@
 
 
 
--   Link krs online  :http://ap.master.ac.id/index.php
+#   Link krs online  : http://ap.master.ac.id/index.php
 - . LINK FORUM PENGGUNA UBUNTU SEINDONESIA  : http://ubuntu-indonesia.com/forums/ubbthreads.php
 
 #   LINK TUTORIAL :
