@@ -31,8 +31,9 @@
  Selain komponen antarmuka, Bootstrap juga menyediakan sarana untuk membangun layout halaman dengan mudah dan rapi, 
  serta modifikasi pada tampilan dasar HTML untuk membuat seluruh halaman web yang dikembangkan senada dengan komponen-komponen lainnya.
 
-
-. 
+- . DIMANA BISA DOWNLOAD BOOTSRAP         : http://getbootstrap.com/
+- . BAGAIMANA CARA MEMBUAT WEBSITE DENGAN BOOTSTRAP : -http://sidikhanrei.com/id/blog/tutorials/2013/08/28/6-82/cara_mudah_membuat_website_dengan_bootstrap_v3_0_0
+ 
 
 
 
