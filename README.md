@@ -34,6 +34,7 @@
 - . https://redpen.io/
 - . JASA DESIGN GRAFIS YANG HOBI MEMBUAT LOGO DAN BISA MENGHASILKAN : http://www.sribu.com/id/
 - . WAJIB PUNYA AKUN DISINI JUGA UNTUK PORTOFOLIO : https://99designs.com/
+- . MAU JADI WEBDISGNER & WEBDEVELOPER NIH BIAR BELAJAR JADI BERNILAI : http://webbisnis.net/faq/website-seo-7-juta-mahal-murah.html
   
   
 #   THE BEST WEBSITE :
