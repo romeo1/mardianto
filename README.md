@@ -1,22 +1,17 @@
                                           
-                                           # BOOKMARK MIS-B / MIS-D
-                                              =============
+                                          ## BOOKMARK MIS-B / MISD
+                                               =============
                                               
                                       BOOKMARK LINK USEFUL UNTUK GROUP MI 
                                       
                                       
                                       
-## GROUP MAHASISWA/i KELAS MIS B MIS D AMIK MASTER ANGKATAN 2012/2013 ##
+## Group Mahasiswa/i kelas MIS B MIS D AMIK MASTER ANGKATAN 2012/2013 ##
 
 
 
-# . LINK KRS ONLINE :http://ap.master.ac.id/index.php
+# . Link krs online  :http://ap.master.ac.id/index.php
 - . LINK FORUM PENGGUNA UBUNTU SEINDONESIA  : http://ubuntu-indonesia.com/forums/ubbthreads.php
-
-
-
-
-
 
 #   LINK TUTORIAL :
 
