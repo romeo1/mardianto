@@ -22,13 +22,14 @@
 - . APA ITU HTML & CSS : http://www.w3schools.com/html/default.asp
 - . APA ITU CSS        :  http://www.w3schools.com/css/default.asp
 - . GIMANA CARA BIKIN SLIDER DENGAN CSS ? : http://demosthenes.info/blog/627/Make-A-Responsive-CSS3-Image-Slider
+- . BELAJAR JQUERY : http://try.jquery.com/levels/1/challenges/1
  
 
 
 
 # TOOLS UNTUK BERBAGI POTONGAN KODE :
 
-  . TINGGAL COPY HTML,CSS,JS DI BAWAH INI BERBASIS ONLINE
+  . TINGGAL COPY HTML,CSS,JS DI BAWAH INI *NOTE* BERBASIS ONLINE
 
 - . Tinggal copy html,css,javascript nya disini : http://jsbin.com/
 - . Jsfiddel Masih saudara an sama jsbin. : http://jsfiddle.net/
