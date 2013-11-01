@@ -31,10 +31,11 @@
  Selain komponen antarmuka, Bootstrap juga menyediakan sarana untuk membangun layout halaman dengan mudah dan rapi, 
  serta modifikasi pada tampilan dasar HTML untuk membuat seluruh halaman web yang dikembangkan senada dengan komponen-komponen lainnya.
 
-- . DIMANA BISA DOWNLOAD BOOTSRAP         : http://getbootstrap.com/
+- . DIMANA BISA DOWNLOAD BOOTSTRAP         : http://getbootstrap.com/
 - . BAGAIMANA CARA MEMBUAT WEBSITE DENGAN BOOTSTRAP : -http://sidikhanrei.com/id/blog/tutorials/2013/08/28/6-82/cara_mudah_membuat_website_dengan_bootstrap_v3_0_0
 - . BEBERAPA SITUS YANG BISA DI JADIKAN REFRENSI BOOTSTRAP : http://bootstrapthemes.quora.com/25-Awseome-Twitter-Bootstrap-Themes-For-Better-Bootstrap-Designs
 - . TUTORIAL BOOTSTRAP : -http://bertzzie.com/post/31/bootstrap-sebuah-framework-css-dari-twitter
+- . DASHBOARD ADMIN YANG MENGGUNAKAN BOOTSTRAP : https://wrapbootstrap.com/search?q=dashboard
 
 
 
