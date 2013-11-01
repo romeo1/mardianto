@@ -1,5 +1,5 @@
-                                    BOOKMARK MIS-B / MIS-D
-                                        =============
+                                          BOOKMARK MIS-B / MIS-D
+                                              =============
 
 Group Mahasiswa/i Kelas MIS B - D AMIK MASTER Angkatan 2012/2013
 
@@ -13,7 +13,7 @@ Group Mahasiswa/i Kelas MIS B - D AMIK MASTER Angkatan 2012/2013
 
 
 
-LINK TUTORIAL :
+  LINK TUTORIAL :
 
 . PROGRAM DASAR PADA DELPHI & PENGKONEKSIAN NYA                         : http://youtu.be/FSV-qIh3jTg
 
@@ -31,3 +31,4 @@ LINK TUTORIAL :
 
 
 
+Sabar yaa pasti akan nambah terus :)
