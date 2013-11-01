@@ -1,7 +1,10 @@
                                           BOOKMARK MIS-B / MIS-D
                                               =============
 
-Group Mahasiswa/i Kelas MIS B - D AMIK MASTER Angkatan 2012/2013
+                                     Bookmark link useful Untuk grup
+
+
+Group Mahasiswa/i Kelas MIS B MIS D AMIK MASTER Angkatan 2012/2013
 
 
 
