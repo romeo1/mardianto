@@ -12,6 +12,8 @@
 
 #   Link krs online  : http://ap.master.ac.id/index.php
 - . LINK FORUM PENGGUNA UBUNTU SEINDONESIA  : http://ubuntu-indonesia.com/forums/ubbthreads.php
+- . LINK DOWNLOAD UBUNTU & BELAJAR UBUNTU : http://www.ubuntu.com/download/desktop
+- . ALTERNATIF LINK DOWNLOAD UBUNTU & BELAJAR UBUNTU  UNIV.INDO : http://kambing.ui.ac.id/
 
 #   LINK TUTORIAL :
 
