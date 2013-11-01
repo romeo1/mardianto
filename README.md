@@ -16,6 +16,7 @@
 #   LINK TUTORIAL :
 
 - . PROGRAM DASAR PADA DELPHI & PENGKONEKSIAN NYA : http://youtu.be/FSV-qIh3jTg
+- . TUTORIAL WEB DESIGN & TEMPATE  : http://www.tutorial-webdesign.com/10-template-layout-website-psd-gratis/
 - . EBOOK BELAJAR HTML & CSS                      : http://www.ariona.net/ebook-belajar-html-dan-css/
 - . WEBDISGN TUTPLUS                            : http://webdesign.tutsplus.com
 - . BELAJAR MEMBUAT WEBSITE DENGAN PHOTOSHOP & DREAMWAVER : http://www.w3function.com/blog/index.php?p=det&idn=24
