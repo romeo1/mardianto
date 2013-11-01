@@ -1,12 +1,11 @@
-                                          
-                                          ## BOOKMARK MIS-B / MISD
-                                               =============
+                                     
                                               
-                                      BOOKMARK LINK USEFUL UNTUK GROUP MI 
+                             # BOOKMARK LINK  UNTUK GROUP MIS B & MIS D 
                                       
                                       
                                       
 ## Group Mahasiswa/i kelas MIS B & MIS D AMIK MASTER ANGKATAN 2012/2013: ##
+             ==============================================
 
 
 
