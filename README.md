@@ -19,8 +19,8 @@
 - . TUTORIAL WEB DESIGN & TEMPLATE  : http://www.tutorial-webdesign.com/10-template-layout-website-psd-gratis/
 - . TUTORIAL & ARTIKEL : http://webdesign.tutsplus.com/
 - . EBOOK BELAJAR HTML & CSS                      : http://www.ariona.net/ebook-belajar-html-dan-css/
-- . WEBDEISGN TUTPLUS                            : http://webdesign.tutsplus.com
-- . WEBDEISIGN NETTUTPLUS : http://net.tutsplus.com/category/tutorials/
+- . WEBDESIGN TUTPLUS                            : http://webdesign.tutsplus.com
+- . WEBDESIGN NET.TUTPLUS : http://net.tutsplus.com/category/tutorials/
 - . BELAJAR MEMBUAT WEBSITE DENGAN PHOTOSHOP & DREAMWAVER : http://www.w3function.com/blog/index.php?p=det&idn=24
 - . APA ITU HTML & CSS : http://www.w3schools.com/html/default.asp
 - . APA ITU CSS        :  http://www.w3schools.com/css/default.asp
