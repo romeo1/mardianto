@@ -7,6 +7,11 @@
 - . BOOKMARK LINK  UNTUK GROUP MIS B & MIS D 
 
 #   Link krs online  : http://ap.master.ac.id/index.php
+
+#   website : http://www.master.ac.id/
+
+
+
 - . FORUM PENGGUNA UBUNTU SEINDONESIA  : http://ubuntu-indonesia.com/forums/ubbthreads.php
 - . KOMUNITAS MYSQL INDONESIA : http://www.meetup.com/Event-Komunitas-MySQL-Indonesia/
 - . KUMPULAN BERBAGAI KOMUNITAS,BERMINAT UNTUK BERKUMPUL,SHARING DAN BERJUMPA : http://www.meetup.com/find/
