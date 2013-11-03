@@ -10,8 +10,6 @@
 
 #   website : http://www.master.ac.id/
 
-
-
 - . FORUM PENGGUNA UBUNTU SEINDONESIA  : http://ubuntu-indonesia.com/forums/ubbthreads.php
 - . KOMUNITAS MYSQL INDONESIA : http://www.meetup.com/Event-Komunitas-MySQL-Indonesia/
 - . KUMPULAN BERBAGAI KOMUNITAS,BERMINAT UNTUK BERKUMPUL,SHARING DAN BERJUMPA : http://www.meetup.com/find/
@@ -19,7 +17,6 @@
 - . ALTERNATIF LINK DOWNLOAD UBUNTU & BELAJAR UBUNTU  UNIV.INDO : http://kambing.ui.ac.id/
 
 #   LINK TUTORIAL :
-
 - . PROGRAM DASAR PADA DELPHI & PENGKONEKSIAN NYA : http://youtu.be/FSV-qIh3jTg
 - . TUTORIAL WEB DESIGN & TEMPLATE  : http://www.tutorial-webdesign.com/10-template-layout-website-psd-gratis/
 - . TUTORIAL & ARTIKEL : http://webdesign.tutsplus.com/
@@ -34,26 +31,20 @@
 - . BELAJAR JAVASCRIPT & PHP : http://www.codesaya.com/javascript/
 
 #   SHARE DESIGN :
-
 - .  Untuk membuat suatu design baiknya di upload dulu disni untuk penilaian/koreksi suatu design: 
-
 - . https://redpen.io/
 - . JASA DESIGN GRAFIS YANG HOBI MEMBUAT LOGO DAN BISA MENGHASILKAN : http://www.sribu.com/id/
 - . WAJIB PUNYA AKUN DISINI JUGA UNTUK PORTOFOLIO : https://99designs.com/
 - . MAU JADI WEBDISGNER & WEBDEVELOPER NIH BIAR BELAJAR JADI BERNILAI : http://webbisnis.net/faq/website-seo-7-juta-mahal-murah.html
   
-  
-#   THE BEST WEBSITE :
+  #   THE BEST WEBSITE :
 - . REFRENSI WEBSITE INDAHNYA SEBUAH TAMPILAN WEB, KOLABORASI WEBDESIGNER & WEBDEVELOPER:
 - . http://www.cssdesignawards.com/
 
-
-# 3DMAX tutorial & interface program :
-
+#  3DMAX tutorial & interface program :
 - . http://tutorisme.wordpress.com/2010/11/08/interface-tampilan-program-2/
  
 # Tools untuk berbagi potongan kode:
-
   . TINGGAL COPY HTML,CSS,JS DI BAWAH INI *NOTE* BERBASIS ONLINE
 
 - . Tinggal copy html,css,javascript nya disini : http://jsbin.com/
@@ -72,8 +63,6 @@
 
 # Cara bikin bagkround yang ada texture nya itu gmna sih?
 - . http://noisepng.com/
-
-
 
 # 1. Apa itu bootstrap?
 
