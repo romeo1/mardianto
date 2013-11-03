@@ -55,6 +55,12 @@
 - . Jsfiddel Masih saudara an sama jsbin. : http://jsfiddle.net/
 - . Liveweave html5, css, javascript : http://liveweave.com/
 
+# DIMANA BISA DOWNLOAD GAMBAR GRATIS?
+- . http://pixabay.com/
+- . http://unsplash.com/
+- . http://compfight.com/search/computer/1-0-1-1
+
+
 
 
 # 1. APA ITU BOOTSTRAP?
