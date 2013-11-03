@@ -43,11 +43,11 @@
 - . http://www.cssdesignawards.com/
 
 
-# 3DMAX TUTORIALS & INTERFACE PROGRAM:
+# 3DMAX tutorial & interface program :
 
 - . http://tutorisme.wordpress.com/2010/11/08/interface-tampilan-program-2/
  
-# TOOLS UNTUK BERBAGI POTONGAN KODE :
+# Tools untuk berbagi potongan kode:
 
   . TINGGAL COPY HTML,CSS,JS DI BAWAH INI *NOTE* BERBASIS ONLINE
 
@@ -70,7 +70,7 @@
 
 
 
-# 1. APA ITU BOOTSTRAP?
+# 1. Apa itu bootstrap?
 
  Bootstrap merupakan sebuah framework CSS dari twitter,
  yang menyediakan kumpulan komponen-komponen antarmuka dasar pada web yang telah dirancang sedemikian rupa untuk digunakan bersama-sama. 
