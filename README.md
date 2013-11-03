@@ -60,6 +60,10 @@
 - . http://unsplash.com/
 - . http://compfight.com/search/computer/1-0-1-1
 
+# DIMANA BISA DOWNLOAD ICON GRATIS?
+- . http://www.entypo.com/
+- . http://fortawesome.github.io/Font-Awesome/icons/
+- . http://gemicon.net/
 
 
 
