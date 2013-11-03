@@ -30,14 +30,14 @@
 - . BELAJAR JQUERY : http://try.jquery.com/levels/1/challenges/1
 - . BELAJAR JAVASCRIPT & PHP : http://www.codesaya.com/javascript/
 
-#   SHARE DESIGN :
+#   Share design:
 - .  Untuk membuat suatu design baiknya di upload dulu disni untuk penilaian/koreksi suatu design: 
 - . https://redpen.io/
 - . JASA DESIGN GRAFIS YANG HOBI MEMBUAT LOGO DAN BISA MENGHASILKAN : http://www.sribu.com/id/
 - . WAJIB PUNYA AKUN DISINI JUGA UNTUK PORTOFOLIO : https://99designs.com/
 - . MAU JADI WEBDISGNER & WEBDEVELOPER NIH BIAR BELAJAR JADI BERNILAI : http://webbisnis.net/faq/website-seo-7-juta-mahal-murah.html
   
-  #   THE BEST WEBSITE :
+  #   The best website :
 - . REFRENSI WEBSITE INDAHNYA SEBUAH TAMPILAN WEB, KOLABORASI WEBDESIGNER & WEBDEVELOPER:
 - . http://www.cssdesignawards.com/
 
