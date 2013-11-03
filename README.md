@@ -64,6 +64,8 @@
 - . http://www.entypo.com/
 - . http://fortawesome.github.io/Font-Awesome/icons/
 - . http://gemicon.net/
+# Cara bikin bagkround yang ada texture nya itu gmna sih?
+http://noisepng.com/
 
 
 
