@@ -13,6 +13,7 @@
 #   Daftar beberapa nama dosen beserta no.hp : 
 - . https://docs.google.com/document/d/1iHknU7JHf4157TI9_RSsuaMESg_n2k6n59CALvKoGjQ/edit?userstoinvite=shilvyas92@gmail.com
 
+#   komunitas
 - . FORUM PENGGUNA UBUNTU SEINDONESIA  : http://ubuntu-indonesia.com/forums/ubbthreads.php
 - . KOMUNITAS MYSQL INDONESIA : http://www.meetup.com/Event-Komunitas-MySQL-Indonesia/
 - . KUMPULAN BERBAGAI KOMUNITAS,BERMINAT UNTUK BERKUMPUL,SHARING DAN BERJUMPA : http://www.meetup.com/find/
