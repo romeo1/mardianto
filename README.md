@@ -30,7 +30,7 @@
 
 #   SHARE DESIGN :
 
-- .  UNTUK MEMBUAT SUATU DESIGN BAIK NYA DI UPLOAD DAHAULU DI SINI UNTUK PENILAIAN/KOREKSI 
+- .  Untuk membuat suatu design baiknya di upload dulu disni untuk penilaian/koreksi suatu design: 
 
 - . https://redpen.io/
 - . JASA DESIGN GRAFIS YANG HOBI MEMBUAT LOGO DAN BISA MENGHASILKAN : http://www.sribu.com/id/
@@ -43,7 +43,7 @@
 - . http://www.cssdesignawards.com/
 
 
-# 3D MAX TUTORIALS & INTERFACE PROGRAM:
+# 3DMAX TUTORIALS & INTERFACE PROGRAM:
 
 - . http://tutorisme.wordpress.com/2010/11/08/interface-tampilan-program-2/
  
@@ -55,12 +55,12 @@
 - . Jsfiddel Masih saudara an sama jsbin. : http://jsfiddle.net/
 - . Liveweave html5, css, javascript : http://liveweave.com/
 
-# DIMANA BISA DOWNLOAD GAMBAR GRATIS?
+# Dimana bisa download gambar gratis?
 - . http://pixabay.com/
 - . http://unsplash.com/
 - . http://compfight.com/search/computer/1-0-1-1
 
-# DIMANA BISA DOWNLOAD ICON GRATIS?
+# Dimana bisa download icon gratis?
 - . http://www.entypo.com/
 - . http://fortawesome.github.io/Font-Awesome/icons/
 - . http://gemicon.net/
