@@ -10,7 +10,7 @@
 
 #   website : http://www.master.ac.id/
 
-#   Daftar beberapa nama dosen beserta no.hp : 
+#   Daftar nama dosen beserta no.hp : 
 - . https://docs.google.com/document/d/1iHknU7JHf4157TI9_RSsuaMESg_n2k6n59CALvKoGjQ/edit?userstoinvite=shilvyas92@gmail.com
 
 #   komunitas
