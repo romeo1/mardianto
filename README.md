@@ -29,7 +29,7 @@
 -  LINK DOWNLOAD UBUNTU & BELAJAR UBUNTU : http://www.ubuntu.com/download/desktop
 -  ALTERNATIF LINK DOWNLOAD UBUNTU & BELAJAR UBUNTU  UNIV.INDO : http://kambing.ui.ac.id/
 
-#   *LINK TUTORIAL :
+#   *LINK TUTORIAL* :
 -  PROGRAM DASAR PADA DELPHI & PENGKONEKSIAN NYA : http://youtu.be/FSV-qIh3jTg
 -  TUTORIAL WEB DESIGN & TEMPLATE  : http://www.tutorial-webdesign.com/10-template-layout-website-psd-gratis/
 -  TUTORIAL & ARTIKEL : http://webdesign.tutsplus.com/
