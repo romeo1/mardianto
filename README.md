@@ -34,6 +34,9 @@
 -   E-BOOk LINUX UBUNTU 13.10 SLIDER :                                         
     http://www.slideshare.net/kslung1/ebook-kslung-panduan-penggunaan-ubuntu-1310-saucy-salamander
 
+#   SQL INJECTION & DATABASE
+-   SQL INJECTION : http://www.websec.ca/kb/sql_injection#MySQL_Testing_Injection
+
 #   *LINK TUTORIAL* :
 -  PROGRAM DASAR PADA DELPHI & PENGKONEKSIAN NYA : http://youtu.be/FSV-qIh3jTg
 -  TUTORIAL WEB DESIGN & TEMPLATE  : http://www.tutorial-webdesign.com/10-template-layout-website-psd-gratis/
@@ -101,4 +104,4 @@
 
 
 
-**Sabar yaa pasti akan nambah terus  SEMOGA BERMANFAAT**.
+**Sabar yaa pasti akan nambah terus  SEMOGA BERMANFAAT**. BY : **ROMEO**
