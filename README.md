@@ -36,6 +36,11 @@
 
 #   SQL INJECTION & DATABASE
 -   SQL INJECTION : http://www.websec.ca/kb/sql_injection#MySQL_Testing_Injection
+ 
+#   DELPHI versi LINUX : 
+     ADA JUGA KQ BAHASA PEMROGRAMAN LAIN NYA :
+-   DELPHI FOR LINUX (nama yang berbeda tapi keren juga kq) : http://lazarus.freepascal.org/ 
+   
 
 #   *LINK TUTORIAL* :
 -  PROGRAM DASAR PADA DELPHI & PENGKONEKSIAN NYA : http://youtu.be/FSV-qIh3jTg
