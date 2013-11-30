@@ -28,6 +28,11 @@
 -  KUMPULAN BERBAGAI KOMUNITAS,BERMINAT UNTUK BERKUMPUL,SHARING DAN BERJUMPA : http://www.meetup.com/find/
 -  LINK DOWNLOAD UBUNTU & BELAJAR UBUNTU : http://www.ubuntu.com/download/desktop
 -  ALTERNATIF LINK DOWNLOAD UBUNTU & BELAJAR UBUNTU  UNIV.INDO : http://kambing.ui.ac.id/
+  
+
+#   E-BOOK LINUX & DISTRO NYA
+-   E-BOOk LINUX UBUNTU 13.10 SLIDER :                                         
+    http://www.slideshare.net/kslung1/ebook-kslung-panduan-penggunaan-ubuntu-1310-saucy-salamander
 
 #   *LINK TUTORIAL* :
 -  PROGRAM DASAR PADA DELPHI & PENGKONEKSIAN NYA : http://youtu.be/FSV-qIh3jTg
