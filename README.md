@@ -104,6 +104,65 @@
 -   DASHBOARD ADMIN YANG MENGGUNAKAN BOOTSTRAP : https://wrapbootstrap.com/search?q=dashboard
 
 
+# 2.  Apa itu FONT AWESOME?
+
+Kumpulan icon-icon yang berbasis atau terbuat dari "Font". Yang berarti Icon tersebut tidak terbuat dari "Gambar". dan tidak akan pecah jika dibesarkan.
+
+
+- Dimana bisa DOWNLOAD FONT AWESOME?
+
+http://fortawesome.github.io/Font-Awesome/icons/
+
+
+- Bagaimana CARA MENGGUNAKAN FONT AWESOME?
+
+http://fortawesome.github.io/Font-Awesome/get-started/
+
+# 3. PERTANYAAN SEPUTAR JQUERY
+
+
+1. APA ITU JQUERY?
+
+jQuery adalah sebuah library Javascript yang sangat ringkas dan sederhana untuk memanipulasi komponen di dokumen HTML, menangani event, animasi, efek dan memproses interaksi ajax. jQuery dirancang sedemikian rupa supaya membuat program menggunakan Javascript menjadi relatif sangat mudah. Sesuai slogan nya, write less, do more. Menulis kode lebih sedikit, tetapi melakukan pekerjaan lebih banyak.
+
+
+2. Dimana bisa DOWNLOAD JQUERY?
+
+-http://jquery.com/
+
+
+- Cara PAKAI JQUERY GIMANA?
+
+ http://api.jquery.com/
+
+- yang INDONESIA ada gak!?
+
+http://www.w3function.com/blog/?p=det&idn=32
+
+
+-  minta WEB PLUGIN PLUGIN JQUERY DONG?!.
+
+http://www.unheap.com/
+
+http://jqueryui.com/
+
+
+-  Gimana CARA BIKIN CHART PAKE JQUERY?
+
+http://www.oesmith.co.uk/morris.js/
+
+http://www.highcharts.com/
+
+http://www.jqchart.com/
+
+
+
+
+
+
+
+
+
 
 ----
 
