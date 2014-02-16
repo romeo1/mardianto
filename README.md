@@ -28,10 +28,11 @@
 ===================================================================================   
 
 
-#   LINK Materi web pratikum :
+#   LINK Materi Web pratikum & Delphi :
      *NOTE* MATERI AKAN DISESUAIKAN MASING-MASING DOSEN PENGAJAR
   
--   Dosen Pak Rafli Hendra Kuswara  Download disini : https://www.dropbox.com/sh/xxn4w4fwfx7bnrs/KAnL1xomz1 
+-   Dosen Pak Rafli Hendra Kuswara  Download disini : https://www.dropbox.com/sh/xxn4w4fwfx7bnrs/KAnL1xomz1
+-   Dosen Pak Tedy Gunawa Download disni : http://ge.tt/4R4e7Jx?c?c
 
 ----
 
@@ -130,14 +131,11 @@
 Kumpulan icon-icon yang berbasis atau terbuat dari "Font". Yang berarti Icon tersebut tidak terbuat dari "Gambar". dan tidak akan pecah jika dibesarkan.
 
 
-- Dimana bisa DOWNLOAD FONT AWESOME?
+- Dimana bisa DOWNLOAD FONT AWESOME? : http://fortawesome.github.io/Font-Awesome/icons/
 
-http://fortawesome.github.io/Font-Awesome/icons/
+- Bagaimana CARA MENGGUNAKAN FONT AWESOME? : http://fortawesome.github.io/Font-Awesome/get-started/
 
 
-- Bagaimana CARA MENGGUNAKAN FONT AWESOME?
-
-http://fortawesome.github.io/Font-Awesome/get-started/
 
 # 3. PERTANYAAN SEPUTAR JQUERY
 
@@ -147,28 +145,12 @@ http://fortawesome.github.io/Font-Awesome/get-started/
 jQuery adalah sebuah library Javascript yang sangat ringkas dan sederhana untuk memanipulasi komponen di dokumen HTML, menangani event, animasi, efek dan memproses interaksi ajax. jQuery dirancang sedemikian rupa supaya membuat program menggunakan Javascript menjadi relatif sangat mudah. Sesuai slogan nya, write less, do more. Menulis kode lebih sedikit, tetapi melakukan pekerjaan lebih banyak.
 
 
-2. Dimana bisa DOWNLOAD JQUERY? : http://jquery.com/
-
-
-
-
+- Dimana bisa DOWNLOAD JQUERY? : http://jquery.com/
 - Cara PAKAI JQUERY GIMANA? :  http://api.jquery.com/
-
- 
-
 - yang INDONESIA ada gak!? : http://www.w3function.com/blog/?p=det&idn=32
+- minta WEB PLUGIN PLUGIN JQUERY DONG?! : http://www.unheap.com/ ,,, http://jqueryui.com/
 
-
-
-
--  minta WEB PLUGIN PLUGIN JQUERY DONG?! : http://www.unheap.com/ ,,, http://jqueryui.com/
-
-
-
-
-
-
--  Gimana CARA BIKIN CHART PAKE JQUERY?  : http://www.oesmith.co.uk/morris.js/ ,,
+- Gimana CARA BIKIN CHART PAKE JQUERY?  : http://www.oesmith.co.uk/morris.js/ ,,
 http://www.highcharts.com/ ,, http://www.jqchart.com/
 
 
