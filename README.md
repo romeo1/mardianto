@@ -19,10 +19,21 @@
 
 #   Link krs online  : http://ap.master.ac.id/index.php
 
-#   website : http://www.master.ac.id/
+-   WEBSITE KAMPUS : http://www.master.ac.id/
 
-#   Daftar nama dosen beserta no.hp : 
-- . https://docs.google.com/document/d/1iHknU7JHf4157TI9_RSsuaMESg_n2k6n59CALvKoGjQ/edit?userstoinvite=shilvyas92@gmail.com
+-   Daftar nama dosen beserta no.hp : 
+    https://docs.google.com/document/d/1iHknU7JHf4157TI9_RSsuaMESg_n2k6n59CALvKoGjQ/edit?userstoinvite=shilvyas92@gmail.com
+
+
+===================================================================================   
+
+
+#   LINK Materi web pratikum :
+     *NOTE* MATERI AKAN DISESUAIKAN MASING-MASING DOSEN PENGAJAR
+  
+-   Dosen Pak Rafli Hendra Kuswara  Download disini : https://www.dropbox.com/sh/xxn4w4fwfx7bnrs/KAnL1xomz1 
+
+----
 
 #   komunitas
 -  FORUM PENGGUNA UBUNTU SEINDONESIA  : http://ubuntu-indonesia.com/forums/ubbthreads.php
@@ -48,12 +59,12 @@
 -  PROGRAM DASAR PADA DELPHI & PENGKONEKSIAN NYA : http://youtu.be/FSV-qIh3jTg
 -  TUTORIAL WEB DESIGN & TEMPLATE  : http://www.tutorial-webdesign.com/10-template-layout-website-psd-gratis/
 -  TUTORIAL & ARTIKEL : http://webdesign.tutsplus.com/
--  EBOOK BELAJAR HTML & CSS                      : http://www.ariona.net/ebook-belajar-html-dan-css/
--  WEBDESIGN TUTPLUS                            : http://webdesign.tutsplus.com
--  WEBDESIGN NET.TUTPLUS : http://net.tutsplus.com/category/tutorials/
--  BELAJAR MEMBUAT WEBSITE DENGAN PHOTOSHOP & DREAMWAVER : http://www.w3function.com/blog/index.php?p=det&idn=24
+-  EBOOK BELAJAR HTML & CSS    : http://www.ariona.net/ebook-belajar-html-dan-css/
 -  APA ITU HTML & CSS : http://www.w3schools.com/html/default.asp
 -  APA ITU CSS        :  http://www.w3schools.com/css/default.asp
+-  WEBDESIGN TUTPLUS  : http://webdesign.tutsplus.com
+-  WEBDESIGN NET.TUTPLUS : http://net.tutsplus.com/category/tutorials/
+-  BELAJAR MEMBUAT WEBSITE DENGAN PHOTOSHOP & DREAMWAVER : http://www.w3function.com/blog/index.php?p=det&idn=24
 -  GIMANA CARA BIKIN SLIDER DENGAN CSS ? : http://demosthenes.info/blog/627/Make-A-Responsive-CSS3-Image-Slider
 -  BELAJAR JQUERY : http://try.jquery.com/levels/1/challenges/1
 -  BELAJAR JAVASCRIPT & PHP : http://www.codesaya.com/javascript/
@@ -92,6 +103,14 @@
 # Cara bikin bagkround yang ada texture nya itu gmna sih?
 -   http://noisepng.com/
 
+
+
+===================================================================================   
+
+
+
+
+
 # 1. Apa itu bootstrap?
 
  Bootstrap merupakan sebuah framework CSS dari twitter,
@@ -128,34 +147,34 @@ http://fortawesome.github.io/Font-Awesome/get-started/
 jQuery adalah sebuah library Javascript yang sangat ringkas dan sederhana untuk memanipulasi komponen di dokumen HTML, menangani event, animasi, efek dan memproses interaksi ajax. jQuery dirancang sedemikian rupa supaya membuat program menggunakan Javascript menjadi relatif sangat mudah. Sesuai slogan nya, write less, do more. Menulis kode lebih sedikit, tetapi melakukan pekerjaan lebih banyak.
 
 
-2. Dimana bisa DOWNLOAD JQUERY?
-
--http://jquery.com/
+2. Dimana bisa DOWNLOAD JQUERY? : http://jquery.com/
 
 
-- Cara PAKAI JQUERY GIMANA?
-
- http://api.jquery.com/
-
-- yang INDONESIA ada gak!?
-
-http://www.w3function.com/blog/?p=det&idn=32
 
 
--  minta WEB PLUGIN PLUGIN JQUERY DONG?!.
+- Cara PAKAI JQUERY GIMANA? :  http://api.jquery.com/
 
-http://www.unheap.com/
+ 
 
-http://jqueryui.com/
+- yang INDONESIA ada gak!? : http://www.w3function.com/blog/?p=det&idn=32
 
 
--  Gimana CARA BIKIN CHART PAKE JQUERY?
 
-http://www.oesmith.co.uk/morris.js/
 
-http://www.highcharts.com/
+-  minta WEB PLUGIN PLUGIN JQUERY DONG?! : http://www.unheap.com/ ,,, http://jqueryui.com/
 
-http://www.jqchart.com/
+
+
+
+
+
+-  Gimana CARA BIKIN CHART PAKE JQUERY?  : http://www.oesmith.co.uk/morris.js/ ,,
+http://www.highcharts.com/ ,, http://www.jqchart.com/
+
+
+
+
+
 
 
 
