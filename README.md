@@ -31,8 +31,8 @@
 #   LINK Materi Web pratikum & Delphi :
      *NOTE* MATERI AKAN DISESUAIKAN MASING-MASING DOSEN PENGAJAR
   
--   Dosen Pak Rafli Hendra Kuswara  Download disini : https://www.dropbox.com/sh/xxn4w4fwfx7bnrs/KAnL1xomz1
--   Dosen Pak Tedy Gunawa Download disni : http://ge.tt/4R4e7Jx?c?c
+-   Dosen Pak Rafli Hendra Kuswara (Web) Download disini : https://www.dropbox.com/sh/xxn4w4fwfx7bnrs/KAnL1xomz1
+-   Dosen Pak Tedy Gunawa Download (Delphi) disni : http://ge.tt/4R4e7Jx?c?c
 
 ----
 
