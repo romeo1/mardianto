@@ -134,6 +134,8 @@ Kumpulan icon-icon yang berbasis atau terbuat dari "Font". Yang berarti Icon ter
 - Dimana bisa DOWNLOAD FONT AWESOME? : http://fortawesome.github.io/Font-Awesome/icons/
 
 - Bagaimana CARA MENGGUNAKAN FONT AWESOME? : http://fortawesome.github.io/Font-Awesome/get-started/
+- Yang Bahasa Indonesia ada gak? :http://www.depermana.com/2013/11/cara-memasang-font-awesome.html
+- Ada juga disini? : http://blog.kangismet.net/2013/06/cara-menggunakan-ikon-font-awesome-di.html
 
 
 
