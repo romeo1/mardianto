@@ -78,8 +78,7 @@
      REFRENSI WEBSITE INDAHNYA SEBUAH TAMPILAN WEB, KOLABORASI WEBDESIGNER & WEBDEVELOPER:
 -   http://www.cssdesignawards.com/
 
-#  3DMAX tutorial & interface program :
--   http://tutorisme.wordpress.com/2010/11/08/interface-tampilan-program-2/
+
  
 # Tools untuk berbagi potongan kode:
     TINGGAL COPY HTML,CSS,JS DI BAWAH INI *NOTE* BERBASIS ONLINE
