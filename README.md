@@ -30,9 +30,16 @@
 
 #   LINK Materi Web pratikum & Delphi :
      *NOTE* MATERI AKAN DISESUAIKAN MASING-MASING DOSEN PENGAJAR
-  
+
 -   Dosen Pak Rafli Hendra Kuswara (Web) Download disini : https://www.dropbox.com/sh/xxn4w4fwfx7bnrs/KAnL1xomz1
 -   Dosen Pak Tedy Gunawa Download (Delphi) disni : http://ge.tt/4R4e7Jx?c?c
+
+#   Web Programming I Program (CRUD)create,read,update,delete.
+
+-   Dbuniversitas Indomedia :  https://gist.github.com/romeo1/9331619  
+-   untuk koneksi           :  https://gist.github.com/romeo1/9332310
+
+   
 
 ----
 
@@ -44,16 +51,6 @@
 -  ALTERNATIF LINK DOWNLOAD UBUNTU & BELAJAR UBUNTU  UNIV.INDO : http://kambing.ui.ac.id/
   
 
-#   E-BOOK LINUX & DISTRO NYA
--   E-BOOk LINUX UBUNTU 13.10 SLIDER :                                         
-    http://www.slideshare.net/kslung1/ebook-kslung-panduan-penggunaan-ubuntu-1310-saucy-salamander
-
-#   SQL INJECTION & DATABASE
--   SQL INJECTION : http://www.websec.ca/kb/sql_injection#MySQL_Testing_Injection
- 
-#   DELPHI versi LINUX : 
-     ADA JUGA KQ BAHASA PEMROGRAMAN LAIN NYA :
--   DELPHI FOR LINUX (nama yang berbeda tapi keren juga kq) : http://lazarus.freepascal.org/ 
    
 
 #   *LINK TUTORIAL* :
