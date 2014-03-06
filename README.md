@@ -91,6 +91,7 @@
 -   http://pixabay.com/
 -   http://unsplash.com/
 -   http://compfight.com/search/computer/1-0-1-1
+-   http://hiresstock.com/
 
 # Dimana bisa download icon gratis?
 -   http://www.entypo.com/
