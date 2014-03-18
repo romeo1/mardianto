@@ -73,6 +73,8 @@
 -   JASA DESIGN GRAFIS YANG HOBI MEMBUAT LOGO DAN BISA MENGHASILKAN : http://www.sribu.com/id/
 -   WAJIB PUNYA AKUN DISINI JUGA UNTUK PORTOFOLIO : https://99designs.com/
 -   MAU JADI WEBDISGNER & WEBDEVELOPER NIH BIAR BELAJAR JADI BERNILAI : http://webbisnis.net/faq/website-seo-7-juta-mahal-murah.html
+-   DESIGN KEREN : http://graphicburger.com/ui-kit-dark/
+-   DESIGN AWESOME : http://designbeep.com/2014/03/18/free-download-one-page-website-wireframes/
  
 #   The best website :
      REFRENSI WEBSITE INDAHNYA SEBUAH TAMPILAN WEB, KOLABORASI WEBDESIGNER & WEBDEVELOPER:
