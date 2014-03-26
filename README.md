@@ -102,6 +102,7 @@
 
 # Cara bikin bagkround yang ada texture nya itu gmna sih?
 -   http://noisepng.com/
+-   PATTREN : http://subtlepatterns.com/
 
 
 
